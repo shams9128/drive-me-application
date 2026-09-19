@@ -1,0 +1,7 @@
+target/
+DriveMe-react/
+.git/
+.idea/
+.settings/
+*.log
+out.txt
